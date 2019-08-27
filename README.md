@@ -1,5 +1,5 @@
 # react-redux-material
-React Redux starter kit with multiple theme options based on routes 
+React Redux and Material-UI starter kit with multiple theme options based on routes 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
