@@ -1,0 +1,3 @@
+export const LOGIN_HANDLER = 'LOGIN_HANDLER';
+export const LOGOUT_HANDLER = 'LOGOUT_HANDLER';
+export const LOGIN_START = 'LOGIN_START';
