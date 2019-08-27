@@ -8,8 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Installation:
 ```bash
 $ git clone https://github.com/tufail/react-redux-material.git
-   $ cd react-redux-material
-   $ npm install
+$ cd react-redux-material
+$ npm install
 ```
 
 You can run:
